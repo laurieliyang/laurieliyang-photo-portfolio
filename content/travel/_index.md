@@ -1,7 +1,7 @@
 ---
 title: Travel
 resources:
-  - src: 
-    params:
-      cover: true
+    - src:
+      params:
+          cover: true
 ---
