@@ -1,4 +1,17 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = "http://abc.com/"
 title = 'Laurie Li'
 theme = 'gallery'
+defaultTheme = 'dark'
+
+# Author config
+[author]
+    name = "Laurie Li"
+    email = ""
+    link = "https://github.com/laurieliyang"
+
+# Theme params
+[params]
+    defaultTheme = 'dark'
+
+[params.page.share]
+    enable = false
