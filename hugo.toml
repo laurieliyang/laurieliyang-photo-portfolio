@@ -15,3 +15,6 @@ defaultTheme = 'dark'
 
 [params.page.share]
     enable = false
+
+[params.carouselHomepage] 
+    enable = false
