@@ -1,4 +1,3 @@
-baseURL = "http://abc.com/"
 title = 'Laurie Li'
 theme = 'gallery'
 defaultTheme = 'dark'
