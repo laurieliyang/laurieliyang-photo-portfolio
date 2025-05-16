@@ -5,7 +5,7 @@ defaultTheme = 'dark'
 # Author config
 [author]
     name = "Laurie Li"
-    email = ""
+    email = "laurieliyang@outlook.com"
     link = "https://www.laurieli.com"
 
 # Theme params
@@ -17,3 +17,33 @@ defaultTheme = 'dark'
 
 [params.carouselHomepage] 
     enable = false
+
+[menus]
+
+    # main menu
+    [[menus.main]]
+        name = 'Home 主页'
+        pageRef= '/'
+    [[menus.main]]
+        name = 'Travel 旅行'
+        pageRef= '/travel'
+
+    # footer menu
+    [[menus.footer]]
+        name = 'Gallery @ Laurie'
+        pageRef = '/'
+        weight = 1
+    [[menus.footer]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 2
+    [[menus.footer]]
+        name = 'Travel'
+        pageRef= '/travel'
+        weight = 3
+    [[menus.footer]]
+        name = 'Github'
+        url = 'https://github.com/laurieliyang'
+        weight = 4
+        [menus.main.params]
+            rel = 'external'

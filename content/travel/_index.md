@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: Travel 旅行
 resources:
     - src:
       params:
