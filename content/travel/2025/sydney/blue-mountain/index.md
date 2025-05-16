@@ -7,5 +7,5 @@ resources:
           cover: true
 params:
     featured: true
-    weight: 1
+    weight: 10
 ---
