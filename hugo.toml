@@ -1,6 +1,7 @@
 title = 'Laurie Li'
 theme = 'gallery'
 defaultTheme = 'dark'
+timeout = "999s"
 
 # Author config
 [author]
