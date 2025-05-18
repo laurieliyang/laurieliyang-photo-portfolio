@@ -1,6 +1,7 @@
 ---
 title: The Three Sisters
 date: 2025-05-05
+weight: 6
 resources:
     - src: DSC02308.JPG
       params:

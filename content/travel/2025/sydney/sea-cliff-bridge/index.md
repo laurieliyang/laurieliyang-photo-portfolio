@@ -1,6 +1,7 @@
 ---
 title: Sea Cliff Bridge
 date: 2025-05-03
+weight: 4
 resources:
     - src: dji_fly_20250503_134514.JPG
       params:

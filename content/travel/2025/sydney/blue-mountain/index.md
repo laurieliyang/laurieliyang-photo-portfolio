@@ -1,5 +1,7 @@
 ---
 title: Blue Mountain
+date: 2025-05-04
+weight: 7
 resources:
     - src: DSC02371.JPG
       params:

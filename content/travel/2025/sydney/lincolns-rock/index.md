@@ -1,5 +1,7 @@
 ---
 title: Lincole's Rock
+date: 2025-05-04
+weight: 5
 resource:
     - src: DSC02268.JPG
       params:
