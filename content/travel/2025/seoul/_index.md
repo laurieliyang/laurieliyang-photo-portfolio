@@ -5,7 +5,7 @@ date: 2025-01-31
 params:
     weight: 2
 resources:
-    - src: DSC09912_cover.JPG
+    - src: DSC00258_cover.JPG
       params:
           cover: true
 ---

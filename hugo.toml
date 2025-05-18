@@ -1,3 +1,4 @@
+baseURL = "https://www.laurieli.com/"
 title = 'Laurie Li'
 theme = 'gallery'
 defaultTheme = 'dark'
