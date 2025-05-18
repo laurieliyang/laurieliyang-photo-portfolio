@@ -9,5 +9,4 @@ resources:
           cover: true
 params:
     featured: true
-    weight: 10
 ---
