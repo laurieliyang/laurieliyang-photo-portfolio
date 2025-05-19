@@ -3,7 +3,7 @@ title: Sydney Opera House 悉尼歌剧院
 date: 2025-05-01
 weight: 2
 resources:
-    - src: DSC01885.JPG
+    - src: DSC01773_cover.JPG
       params:
-          date: 2025-05-01T16:53:35+10:00
+          cover: true
 ---
