@@ -1,5 +1,5 @@
 baseURL = "https://www.laurieli.com/"
-title = 'Laurie Li'
+title = 'Gallery @ Laurie Li'
 theme = 'gallery'
 defaultTheme = 'dark'
 timeout = "999s"
