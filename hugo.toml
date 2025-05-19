@@ -4,6 +4,10 @@ theme = 'gallery'
 defaultTheme = 'dark'
 timeout = "999s"
 
+[services]
+    [services.googleAnalytics]
+        id = 'G-09GDESR4SS'
+
 # Author config
 [author]
     name = "Laurie Li"
