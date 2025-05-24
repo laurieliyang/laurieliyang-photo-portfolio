@@ -6,5 +6,4 @@ resources:
     - src: DSC02415_cover.JPG
       params:
           cover: true
-          category: [Night]
 ---
