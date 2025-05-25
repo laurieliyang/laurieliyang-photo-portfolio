@@ -1,8 +1,9 @@
 ---
-title: Shangri-La Hotel/香格里拉酒店
-description: Tanjung Aru/丹绒亚路
+title: Shangri-La/香格里拉酒店
+description: No 20, Jalan Aru, Tanjung Aru, 88100
+weight: 1
 resources:
-    - src: DSCF3539_cover.JPG
+    - src: DSCF3458_cover.JPG
       params:
           cover: true
 ---
