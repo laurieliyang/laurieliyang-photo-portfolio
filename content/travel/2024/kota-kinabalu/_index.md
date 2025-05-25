@@ -1,5 +1,5 @@
 ---
-title: Kota Kinabalu 亚庇/哥打基纳巴卢
+title: Kota Kinabalu 亚庇/哥打基纳巴卢/哥达京那巴鲁
 description: Kota Kinabalu, Sabah, Malaysia 
 date: 2024-02-23
 weight: 3
