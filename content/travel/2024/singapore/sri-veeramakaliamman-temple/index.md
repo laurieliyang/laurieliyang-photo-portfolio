@@ -1,6 +1,6 @@
 ---
 title: Sri Veeramakaliamman Temple
-description:
+description: 141 Serangoon Rd, Singapore 218042
 date: 2024-04-29
 weight: 4
 resources:

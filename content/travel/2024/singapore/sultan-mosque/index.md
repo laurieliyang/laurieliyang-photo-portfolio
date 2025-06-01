@@ -1,6 +1,6 @@
 ---
 title: Sultan Mosque 苏丹回教堂
-description: 
+description: 3 Muscat St, Singapore 198833
 date: 2024-04-29
 weight: 3
 resources:
