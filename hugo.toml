@@ -33,6 +33,9 @@ timeout = "999s"
     [[menus.main]]
         name = 'Travel 旅行'
         pageRef= '/travel'
+    [[menus.main]]
+        name = 'Daily 日常'
+        pageRef= '/daily'
 
     # footer menu
     [[menus.footer]]
@@ -41,3 +44,6 @@ timeout = "999s"
     [[menus.footer]]
         name = 'Travel'
         pageRef= '/travel'
+    [[menus.footer]]
+        name = 'Daily'
+        pageRef= '/daily'
